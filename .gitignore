@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# CSV Data Files
+*.csv
+
+# Snowflake Temp Files
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
